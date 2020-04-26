@@ -89,6 +89,6 @@ If you want to add a Logout feature, all you need to do it remove the session st
 sessionStorage.removeItem("activeUser")
 ```
 
+# Wireframe, Dependency Graph, droplr image:
 https://d.pr/i/K8AD1X
 
-![wireframe data](https://d.pr/i/K8AD1X)
