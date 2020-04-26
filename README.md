@@ -88,3 +88,5 @@ If you want to add a Logout feature, all you need to do it remove the session st
 ```js
 sessionStorage.removeItem("activeUser")
 ```
+
+https://d.pr/i/K8AD1X
