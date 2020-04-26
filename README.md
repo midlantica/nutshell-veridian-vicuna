@@ -90,3 +90,5 @@ sessionStorage.removeItem("activeUser")
 ```
 
 https://d.pr/i/K8AD1X
+
+![wireframe data](https://d.pr/i/K8AD1X)
