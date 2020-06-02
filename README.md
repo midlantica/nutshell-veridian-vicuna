@@ -1,5 +1,7 @@
 # Nutshell: The Information Dashboard
 
+![nutshell screenshot](./nutshell-screenshot.png)
+
 Link to our Sketchboard:
 https://sketchboard.me/zB4qio8EfUXV#/
 
